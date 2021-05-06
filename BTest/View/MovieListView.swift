@@ -12,22 +12,14 @@ struct MovieListView: View {
     
     var body: some View {
         NavigationView{
-            
-//            ScrollView{
-//                VStack{
-//
-//                }
-//            }
-//
+
             List(moviesDataVM.moviesDataBase?.results ?? []){result in
                 IndividualMovieCell(result: result)
             }
             
             .navigationBarTitle(Text("Movie List"))
             .onAppear(){
-                moviesDataVM.getData {
-                    print(moviesDataVM.moviesDataBase)
-                }
+                moviesDataVM.getData {}
             }
         }
     }
