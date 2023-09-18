@@ -8,22 +8,7 @@
             <sparkle:version>1.0.0.2</sparkle:version>
             <sparkle:shortVersionString>1.0.0.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
-            <enclosure url="https://nextcloud.bjitgroup.com/index.php/s/Qaw7t9aq8GfMbkW/download/IBYWellbeingCamera_v1.0.0.1.3.pkg" length="15154373" type="application/octet-stream" sparkle:edSignature="b8GbqsbCuWxq3xBUUeuup7tIjoso3M0TQn0Eu57/Dag1yyQb8B86SaE8cQdfhpKrY8xgZSXZbO9xZhRj4pFmCw=="/>
+            <enclosure url="https://xyz.pkg" length="15154373" type="application/octet-stream" sparkle:edSignature="b8GbqsbCuWxq3xBUUeuup7tI4pFmCw=="/>
         </item>
     </channel>
 </rss>
-
-<!-- <?xml version="1.0" standalone="yes"?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
-    <channel>
-        <title>Sparkle-test 2</title>
-        <item>
-            <title>1.0</title>
-            <pubDate>Mon, 12 Sep 2023 11:47:59 +0200</pubDate>
-            <sparkle:version>1.0.0.1.3</sparkle:version>
-            <sparkle:shortVersionString>1.0.0.1.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
-            <enclosure sparkle:installationType="package" url="https://nextcloud.bjitgroup.com/index.php/s/Qaw7t9aq8GfMbkW/download/IBYWellbeingCamera_v1.0.0.1.3.pkg" length="15154373"  type="application/octet-stream" sparkle:edSignature="b8GbqsbCuWxq3xBUUeuup7tIjoso3M0TQn0Eu57/Dag1yyQb8B86SaE8cQdfhpKrY8xgZSXZbO9xZhRj4pFmCw=="/>
-        </item>
-    </channel>
-</rss> -->
