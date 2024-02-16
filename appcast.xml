@@ -4,7 +4,7 @@
         <title>IBYWellbeingCamera</title>
         <description>Release notes for Your App Name updates</description>
         <item>
-            <title>1.0.0.17.31</title>
+            <title>There is new version 1.0.0.17.31 available. You are using version {current version number}. Press Update to begin updating the application.</title>
             <pubDate> Thu, 08 Feb 2024 03:47:59 </pubDate>
             <sparkle:version>1.0.0.17.31</sparkle:version>
             <sparkle:shortVersionString>1.0.0.17.31</sparkle:shortVersionString>
