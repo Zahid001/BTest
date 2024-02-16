@@ -6,7 +6,8 @@
         <item>
             <title>There is new version 1.0.0.17.31 available. You are using version {current version number}. Press Update to begin updating the application.</title>
             <pubDate> Thu, 08 Feb 2024 03:47:59 </pubDate>
-            <sparkle:version> kjbjb 1.0.0.17.31</sparkle:version>
+            <sparkle:version>1.0.0.17.31</sparkle:version>
+            <sparkle:description>xjksnjksnd</sparkle:version>
             <sparkle:shortVersionString>1.0.0.17.31</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://raw.githubusercontent.com/Zahid001/Privacy-Policy/master/index.html</sparkle:releaseNotesLink>
