@@ -1,14 +1,15 @@
 <?xml version="1.0" standalone="yes"?>
- <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Sparkle-test 2</title>
+        <title>IBYWellbeingCamera</title>
         <item>
-            <title>1.0.0.3</title>
-            <pubDate>Sun, 12 Sep 2023 19:47:59 +0200</pubDate>
-            <sparkle:version>1.0.0.2</sparkle:version>
-            <sparkle:shortVersionString>1.0.0.6</sparkle:shortVersionString>
+            <title>1.0.0.17.31</title>
+            <pubDate> Thu, 08 Feb 2024 03:47:59 </pubDate>
+            <sparkle:version>1.0.0.17.31</sparkle:version>
+            <sparkle:shortVersionString>1.0.0.17.31</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
-            <enclosure url="https://xyz.pkg" length="15154373" type="application/octet-stream" sparkle:edSignature="b8GbqsbCuWxq3xBUUeuup7tI4pFmCw=="/>
+            <enclosure url="https://download.stg.wellbeing.imbesideyou.world/camera-client/releases/mac/ja/latest/IBYWellbeingCamera.pkg"  type="application/octet-stream" sparkle:edSignature="A/16J85x9FWt9uw9TBXZie1SkLp6wwpIaP+u4WxE9EvxtW1s2CNF8iHDArPTG8xistwEYua6+JVaC2QQEmu7DQ==" length="54673546" />
         </item>
     </channel>
 </rss>
+
