@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>IBYWellbeingCamera</title>
+        <title>nn</title>
         <description>Release notes for Your App Name updates</description>
         <item>
             <title>There is new version 1.0.0.17.31 available. You are using version {current version number}. Press Update to begin updating the application.</title>
@@ -11,7 +11,7 @@
             <sparkle:shortVersionString>1.0.0.17.31</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://raw.githubusercontent.com/Zahid001/Privacy-Policy/master/index.html</sparkle:releaseNotesLink>
-            <enclosure url="https://download.stg.wellbeing.imbesideyou.world/camera-client/releases/mac/ja/latest/IBYWellbeingCamera.pkg"  type="application/octet-stream" sparkle:edSignature="A/16J85x9FWt9uw9TBXZie1SkLp6wwpIaP+u4WxE9EvxtW1s2CNF8iHDArPTG8xistwEYua6+JVaC2QQEmu7DQ==" length="54673546" />
+            <enclosure url="https://download.stg.wellbeing.imbesideyou.world/camera-client/releases/mac/ja/latest/IBYWellbeingCamera.pkg"  type="application/octet-stream" sparkle:edSignature="A/16J89FWt9uw9TBXZie1SkLp6wwpIaP+u4WxE9EvxtW1s2CNF8iHDArPTG8xistwEYua6+JVaC2QQEmu7DQ==" length="54673546" />
         </item>
     </channel>
 </rss>
